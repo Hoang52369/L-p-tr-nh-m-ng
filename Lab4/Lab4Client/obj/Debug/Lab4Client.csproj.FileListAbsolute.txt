@@ -1,0 +1,19 @@
+c:\users\administrator\documents\visual studio 2013\Projects\Lab4Client\Lab4Client\bin\Debug\Lab4Client.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\Lab4Client\Lab4Client\obj\Debug\Lab4Client.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\Lab4Client\Lab4Client\obj\Debug\Lab4Client.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\Lab4Client\Lab4Client\bin\Debug\Lab4Client.exe
+c:\users\administrator\documents\visual studio 2013\Projects\Lab4Client\Lab4Client\bin\Debug\Lab4Client.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\Lab4Client\Lab4Client\obj\Debug\Lab4Client.exe
+c:\users\administrator\documents\visual studio 2013\Projects\Lab4Client\Lab4Client\obj\Debug\Lab4Client.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Lab4Client\Lab4Client\obj\Debug\Lab4Client.Form1.resources
+D:\2001170059_NgTruongNhatHoang\Lab4Client\bin\Debug\Lab4Client.exe.config
+D:\2001170059_NgTruongNhatHoang\Lab4Client\bin\Debug\Lab4Client.exe
+D:\2001170059_NgTruongNhatHoang\Lab4Client\bin\Debug\Lab4Client.pdb
+D:\2001170059_NgTruongNhatHoang\Lab4Client\obj\Debug\Lab4Client.csproj.AssemblyReference.cache
+D:\2001170059_NgTruongNhatHoang\Lab4Client\obj\Debug\Lab4Client.csproj.SuggestedBindingRedirects.cache
+D:\2001170059_NgTruongNhatHoang\Lab4Client\obj\Debug\Lab4Client.Form1.resources
+D:\2001170059_NgTruongNhatHoang\Lab4Client\obj\Debug\Lab4Client.Properties.Resources.resources
+D:\2001170059_NgTruongNhatHoang\Lab4Client\obj\Debug\Lab4Client.csproj.GenerateResource.cache
+D:\2001170059_NgTruongNhatHoang\Lab4Client\obj\Debug\Lab4Client.csproj.CoreCompileInputs.cache
+D:\2001170059_NgTruongNhatHoang\Lab4Client\obj\Debug\Lab4Client.exe
+D:\2001170059_NgTruongNhatHoang\Lab4Client\obj\Debug\Lab4Client.pdb

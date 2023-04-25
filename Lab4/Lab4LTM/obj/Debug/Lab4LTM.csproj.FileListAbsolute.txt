@@ -1,0 +1,31 @@
+c:\users\administrator\documents\visual studio 2013\Projects\Lab4LTM\Lab4LTM\bin\Debug\Lab4LTM.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\Lab4LTM\Lab4LTM\bin\Debug\Lab4LTM.exe
+c:\users\administrator\documents\visual studio 2013\Projects\Lab4LTM\Lab4LTM\bin\Debug\Lab4LTM.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\Lab4LTM\Lab4LTM\obj\Debug\Lab4LTM.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\Lab4LTM\Lab4LTM\obj\Debug\Lab4LTM.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\Lab4LTM\Lab4LTM\obj\Debug\Lab4LTM.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\Lab4LTM\Lab4LTM\obj\Debug\Lab4LTM.exe
+c:\users\administrator\documents\visual studio 2013\Projects\Lab4LTM\Lab4LTM\obj\Debug\Lab4LTM.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\Lab4LTM\Lab4LTM\obj\Debug\Lab4LTM.Form1.resources
+D:\2001170059_NgTruongNhatHoang\Lab4LTM\bin\Debug\Lab4LTM.exe.config
+D:\2001170059_NgTruongNhatHoang\Lab4LTM\bin\Debug\Lab4LTM.exe
+D:\2001170059_NgTruongNhatHoang\Lab4LTM\bin\Debug\Lab4LTM.pdb
+D:\2001170059_NgTruongNhatHoang\Lab4LTM\obj\Debug\Lab4LTM.csproj.AssemblyReference.cache
+D:\2001170059_NgTruongNhatHoang\Lab4LTM\obj\Debug\Lab4LTM.csproj.SuggestedBindingRedirects.cache
+D:\2001170059_NgTruongNhatHoang\Lab4LTM\obj\Debug\Lab4LTM.Form1.resources
+D:\2001170059_NgTruongNhatHoang\Lab4LTM\obj\Debug\Lab4LTM.Properties.Resources.resources
+D:\2001170059_NgTruongNhatHoang\Lab4LTM\obj\Debug\Lab4LTM.csproj.GenerateResource.cache
+D:\2001170059_NgTruongNhatHoang\Lab4LTM\obj\Debug\Lab4LTM.csproj.CoreCompileInputs.cache
+D:\2001170059_NgTruongNhatHoang\Lab4LTM\obj\Debug\Lab4LTM.exe
+D:\2001170059_NgTruongNhatHoang\Lab4LTM\obj\Debug\Lab4LTM.pdb
+D:\TH-Lập Trình Mạng\2001170059_NgTruongNhatHoang\Lab4LTM\bin\Debug\Lab4LTM.exe.config
+D:\TH-Lập Trình Mạng\2001170059_NgTruongNhatHoang\Lab4LTM\bin\Debug\Lab4LTM.exe
+D:\TH-Lập Trình Mạng\2001170059_NgTruongNhatHoang\Lab4LTM\bin\Debug\Lab4LTM.pdb
+D:\TH-Lập Trình Mạng\2001170059_NgTruongNhatHoang\Lab4LTM\obj\Debug\Lab4LTM.csproj.AssemblyReference.cache
+D:\TH-Lập Trình Mạng\2001170059_NgTruongNhatHoang\Lab4LTM\obj\Debug\Lab4LTM.csproj.SuggestedBindingRedirects.cache
+D:\TH-Lập Trình Mạng\2001170059_NgTruongNhatHoang\Lab4LTM\obj\Debug\Lab4LTM.Form1.resources
+D:\TH-Lập Trình Mạng\2001170059_NgTruongNhatHoang\Lab4LTM\obj\Debug\Lab4LTM.Properties.Resources.resources
+D:\TH-Lập Trình Mạng\2001170059_NgTruongNhatHoang\Lab4LTM\obj\Debug\Lab4LTM.csproj.GenerateResource.cache
+D:\TH-Lập Trình Mạng\2001170059_NgTruongNhatHoang\Lab4LTM\obj\Debug\Lab4LTM.csproj.CoreCompileInputs.cache
+D:\TH-Lập Trình Mạng\2001170059_NgTruongNhatHoang\Lab4LTM\obj\Debug\Lab4LTM.exe
+D:\TH-Lập Trình Mạng\2001170059_NgTruongNhatHoang\Lab4LTM\obj\Debug\Lab4LTM.pdb
